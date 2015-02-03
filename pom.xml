@@ -11,6 +11,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <capsule.version>1.0-rc1-SNAPSHOT</capsule.version>
   </properties>
 
   <build>
